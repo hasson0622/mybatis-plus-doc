@@ -25,7 +25,7 @@ module.exports = {
             link: "/guide/"
           },
           {
-            text: "选择语音",
+            text: "选择语言",
             items: [
               {
                 text: "简体中文",
